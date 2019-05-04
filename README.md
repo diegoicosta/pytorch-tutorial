@@ -1,1 +1,1 @@
-# ex-machina
+# [PyTorch Tutorial](../../wiki)
